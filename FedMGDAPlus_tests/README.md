@@ -1,5 +1,6 @@
-# 4th Year MEng Porject Results - Enhancing Robust Aggregation in Federated Learning
-Here are all of the experiments and tests that I ran throughout my project to help me understand and evaluate the space of robust aggregation in federated learning
+# FedMGDA+ Tests
 
-### Info
-Each folder should contain a README giving a brief explanation of what each experiment is doing and trying to achieve
+Huge variety of testing done with various breadths and depths to understand better how FedMGDA+ works.
+
+Mainly looking into the various LRs and how they pair with the different Epochs per Rounds.
+

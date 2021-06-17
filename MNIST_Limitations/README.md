@@ -1,5 +1,5 @@
-# 4th Year MEng Porject Results - Enhancing Robust Aggregation in Federated Learning
-Here are all of the experiments and tests that I ran throughout my project to help me understand and evaluate the space of robust aggregation in federated learning
+# MNIST Limitations
 
-### Info
-Each folder should contain a README giving a brief explanation of what each experiment is doing and trying to achieve
+Testing out the limitations of all of the aggregators (in their best form) to see how they perform against various different combinations of faulty and malicious clients.
+
+This is to compare which aggregators work best and where.

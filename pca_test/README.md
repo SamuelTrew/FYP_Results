@@ -1,5 +1,5 @@
-# 4th Year MEng Porject Results - Enhancing Robust Aggregation in Federated Learning
-Here are all of the experiments and tests that I ran throughout my project to help me understand and evaluate the space of robust aggregation in federated learning
+# PCA Transform Test
 
-### Info
-Each folder should contain a README giving a brief explanation of what each experiment is doing and trying to achieve
+Trying to see how the clients spread out over various dimensions and malicious attacks.
+
+This is a basic test to see if adding more dimensions can help, through visual inspection.

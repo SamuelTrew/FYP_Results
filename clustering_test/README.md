@@ -1,5 +1,4 @@
-# 4th Year MEng Porject Results - Enhancing Robust Aggregation in Federated Learning
-Here are all of the experiments and tests that I ran throughout my project to help me understand and evaluate the space of robust aggregation in federated learning
+# Clustering Test
 
-### Info
-Each folder should contain a README giving a brief explanation of what each experiment is doing and trying to achieve
+Testing different variations of aggregators for both the internal and external aggregator and seeing how they perform at different levels.
+

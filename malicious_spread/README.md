@@ -1,5 +1,3 @@
-# 4th Year MEng Porject Results - Enhancing Robust Aggregation in Federated Learning
-Here are all of the experiments and tests that I ran throughout my project to help me understand and evaluate the space of robust aggregation in federated learning
+# Spread of Malicious Clients over Time
 
-### Info
-Each folder should contain a README giving a brief explanation of what each experiment is doing and trying to achieve
+Investigating to see if the malicious clients spread out and form their own clusters at 1D and 4D PCA.

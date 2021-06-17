@@ -1,5 +1,5 @@
-# 4th Year MEng Porject Results - Enhancing Robust Aggregation in Federated Learning
-Here are all of the experiments and tests that I ran throughout my project to help me understand and evaluate the space of robust aggregation in federated learning
+# K-Means Optimal K
 
-### Info
-Each folder should contain a README giving a brief explanation of what each experiment is doing and trying to achieve
+Trying to figure out what might the optimal K be for various different malicious levels.
+
+Used the sum of distances of the clients' models from their respective cluster centres along with the Elbow Method to do this.
